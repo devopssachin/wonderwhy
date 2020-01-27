@@ -29,6 +29,6 @@ public class Demo {
         if(isLeap==true)
             System.out.println(year + " is a Leap Year on.");
         else
-            System.out.println(year + " is not a Leap Year.");
+            System.out.println(year + " is not a Leap Year ok .");
     }
 }
